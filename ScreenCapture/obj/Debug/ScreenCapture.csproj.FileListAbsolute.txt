@@ -1,0 +1,9 @@
+C:\Users\Egeskov\RiderProjects\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.exe
+C:\Users\Egeskov\RiderProjects\ScreenCapture\ScreenCapture\bin\Debug\ScreenCapture.pdb
+C:\Users\Egeskov\RiderProjects\ScreenCapture\ScreenCapture\bin\Debug\SharpAvi.dll
+C:\Users\Egeskov\RiderProjects\ScreenCapture\ScreenCapture\bin\Debug\SharpAvi.xml
+C:\Users\Egeskov\RiderProjects\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.csproj.AssemblyReference.cache
+C:\Users\Egeskov\RiderProjects\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.csproj.CoreCompileInputs.cache
+C:\Users\Egeskov\RiderProjects\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.csproj.CopyComplete
+C:\Users\Egeskov\RiderProjects\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.exe
+C:\Users\Egeskov\RiderProjects\ScreenCapture\ScreenCapture\obj\Debug\ScreenCapture.pdb
